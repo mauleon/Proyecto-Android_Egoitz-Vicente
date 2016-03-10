@@ -2,4 +2,9 @@
     <string name="app_name">Fintastic</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_mapa">Map</string>
+    <string-array name="actividad_array">
+        <item>Correr</item>
+        <item>Bicicleta</item>
+        <item>Paseo</item>
+    </string-array>
 </resources>
